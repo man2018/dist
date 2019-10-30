@@ -1,2 +1,2 @@
 # dist
-copy from v2ray-core, thanks
+copy from v2 .  core, thanks
